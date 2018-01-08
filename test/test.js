@@ -1,4 +1,4 @@
-
+var C = require('../cash.js');  // our module
 var assert = require("assert"); // node.js core module
 
 describe('Array', function(){
